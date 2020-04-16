@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538409184706",
+    "firebase_url": "https://netflix-clone-test-3e673.firebaseio.com",
+    "project_id": "netflix-clone-test-3e673",
+    "storage_bucket": "netflix-clone-test-3e673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538409184706:android:963181ae3f01c27449ba5b",
+        "android_client_info": {
+          "package_name": "kr.or.cles.inflearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538409184706-ogp1ohukvsnt40c7lc33epvcc23piv7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZN-TuAQCOl_pu9cl2cmZINmyD7t8-7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538409184706-ogp1ohukvsnt40c7lc33epvcc23piv7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
